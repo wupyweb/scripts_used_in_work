@@ -1,4 +1,4 @@
-# 当用telnet登陆服务器，用此脚本
+#褰撶敤telnet鐧婚檰鏈嶅姟鍣紝鐢ㄦ鑴氭湰
 
-# 在ip.csv中填入服务器IP，在bash.txt写在服务器中要执行的命令
+#鍦╥p.csv涓～鍏ユ湇鍔″櫒IP锛屽湪bash.txt鍐欏湪鏈嶅姟鍣ㄤ腑瑕佹墽琛岀殑鍛戒护
 
