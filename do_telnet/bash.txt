@@ -1,0 +1,5 @@
+
+cat /mnt/mtd/app/bin/config.xml | grep appServer
+cat /mnt/mtd/app/bin/config.xml | grep logServer
+cat /mnt/mtd/app/bin/config.xml | grep imgServer
+
